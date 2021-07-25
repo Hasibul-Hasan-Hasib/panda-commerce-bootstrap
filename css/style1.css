@@ -1,0 +1,13 @@
+.panda-nav{
+    border-radius: 10px;
+}
+.slider-background{
+    border-radius: 10px;
+    background-color:#FEEAE9;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
